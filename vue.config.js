@@ -9,6 +9,7 @@ module.exports = {
       .filename('vue-copy.js')
       .libraryTarget('umd')
       .library()
+      .umdNamedDefine(true)
   }
   // entry: {
   //   index: path.join(__dirname, '/src/index.js')

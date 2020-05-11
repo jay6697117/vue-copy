@@ -1,6 +1,6 @@
 {
   "name": "vue-copy-text",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "author": "lizhg",
   "private": false,
   "main": "./dist/vue-copy.js",
